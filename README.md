@@ -4,4 +4,4 @@
 
 ### My account :
 Root-me : [patategrill](https://www.root-me.org/patategrill)🧑‍💻  
-Discord : [Add me in discord !](https://discord.gg/KPNHkAqg)
+Discord id : patategrill_
