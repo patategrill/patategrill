@@ -2,7 +2,9 @@
 ### Skills :  
 - 🐧 Linux (in the process of acquiring advanced skills)
 - 🐍 Python (simple project, like my Connect4)
-- 🌐 Network 
+- 🌐 Network
+- 🧡 HTML
+- 💙 CSS
 
 ## Not many project at the moment but more are coming soon !🙏​
 
