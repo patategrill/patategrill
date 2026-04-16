@@ -1,4 +1,4 @@
-## Hello ! I'm patategrill, a french high school student and ctf player 🇫🇷 🐱‍💻🇫🇷
+## Hello ! I'm patategrill, a french high school student and ctf player 🇫🇷 🐱‍💻
 
 ## Not many project at the moment but more are coming soon !🙏​
 
