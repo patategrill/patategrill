@@ -1,6 +1,6 @@
 ## Hello ! I'm patategrill, a french high school student and ctf player 🐱‍💻
 ### Skills :  
-- 🐧 Linux (intermediate used for raspberry and ctf)
+- 🐧 Linux (intermediate used for ctf and raspberry)
 - 🐍 Python (automation, little game like my Connect4)
 - 🌐 Network 
 - 🧡 HTML
