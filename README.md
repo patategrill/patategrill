@@ -6,6 +6,9 @@
 - 🧡 HTML
 - 💙 CSS
 
+### Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=radical&title_color=#b72ed9)
+
 ## More projects are coming soon !🙏​
 
 ### My account :
