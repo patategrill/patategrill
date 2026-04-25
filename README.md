@@ -6,7 +6,7 @@
 - 🧡 HTML
 - 💙 CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=radical&title_color=#b72ed3)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only)
 
 ## More projects are coming soon !🙏​
 
