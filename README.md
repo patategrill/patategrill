@@ -6,7 +6,7 @@
 - 🧡 HTML
 - 💙 CSS
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,ubuntu,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only)
 
 ## More projects are coming soon !🙏​
 
