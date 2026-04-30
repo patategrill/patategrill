@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,ubuntu,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&cache_seconds=1) 
 
 ## More projects are coming soon !🙏​
 
