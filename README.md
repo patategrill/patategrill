@@ -1,4 +1,4 @@
-## Hello World ! I'm patategrill 👋
+## Hello World ! I'm patategrill 👋🥔
 > french high school student and ctf player 🐱‍💻, i like to code, automate things and found flag🚩
 ### Skills :  
 - 🐧 Linux (intermediate used for ctf and raspberry)
