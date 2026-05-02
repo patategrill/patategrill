@@ -7,10 +7,10 @@
 - 🧡 HTML
 - 💙 CSS
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,ubuntu,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only)  
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,ubuntu,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&cache_seconds=2&hide=) 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&hide=)
 
 ## More projects are coming soon !🙏​
 
