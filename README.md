@@ -1,12 +1,7 @@
 ## Hello World ! I'm patategrill 👋🥔
 > a 17 y.o french high school student and ctf player 🐱‍💻, i like to code, automate things and found flag🚩
-### Skills :  
-- 🐧 Linux (intermediate used for ctf and raspberry)
-- 🐍 Python (automation, little game like my Connect4)
-- 🌐 Network 
-- 🧡 HTML
-- 💙 CSS
 
+## Often works with 🤖:  
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,kali,ubuntu,js,html,css,raspberrypi,github,vscode,md&theme=dark)](https://skillicons.dev##gh-dark-mode-only) 
 
 
