@@ -1,7 +1,7 @@
 ## Hello World ! I'm patategrill 👋🥔
 > a 17 y.o french high school student and ctf player 🐱‍💻, i like to code, automate things and found flag🚩
 
-## Often works with 🤖:  
+## Tools I work with 🤖:  
 [![My Skills](https://skillicons.dev/icons?i=py,bash,js,html,css,linux,kali,ubuntu,raspberrypi,github,vscode,md,spotify&theme=dark)](https://skillicons.dev##gh-dark-mode-only) 
 
 
