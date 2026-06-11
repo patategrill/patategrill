@@ -19,8 +19,9 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0j&hide=)
 
 ## Actually work on:   
-- Island 🏝️: A game develop with UnityEngine and code in c# ​
-- Paris interactive map : An interactive website which traces history and monument of Paris 1790
+**- Island :** A game develop with UnityEngine and code in c# ​
+**- Paris interactive map :** An interactive website which traces history and monument of Paris 1790
+**- Linux-Setup-Script :** An auto-installer for some linux distro for those who want to simplify their lives with Linux
 
 ### My account :
 Root-me : [patategrill](https://www.root-me.org/patategrill)🧑‍💻  
