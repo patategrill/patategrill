@@ -26,4 +26,5 @@
 
 ### My account :
 Root-me : [patategrill](https://www.root-me.org/patategrill)🧑‍💻  
-Portfolio : [patategrill](https://patategrill.github.io/)
+Portfolio : [patategrill](https://patategrill.github.io/)  
+Mail : n.richard35@proton.me
