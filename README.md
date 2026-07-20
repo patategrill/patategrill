@@ -1,5 +1,5 @@
 ## Hello World ! I'm patategrill 👋🥔
-> a 17 y.o french high school student and ctf player , i like to code, automate things and found flag🚩
+> a 17 y.o french high school student and ctf player , i like to code, automate things and found flag !
 
 
 
