@@ -12,7 +12,7 @@
                              |___/
 </pre>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0a&hide=shell,html)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0b&hide=shell,html)
 
 ## Actually work on: ​  
 **- MownOS :** An OS that display text (in construction)  
