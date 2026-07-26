@@ -17,7 +17,7 @@
 ## Actually work on: ​  
 **- MownOS :** An OS that display text (in construction)  
 **- Paris interactive map :** An interactive website which traces history and monument of Paris 1790  
-**- Linux-Setup-Script :** An auto-installer for some linux distro for those who want to simplify their lives with Linux  
+**- EIL installer :** An auto-installer for some linux distro for those who want to simplify their lives with Linux  
 
 ### My account :
 Root-me : [patategrill](https://www.root-me.org/patategrill)🧑‍💻  
