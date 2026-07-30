@@ -1,5 +1,5 @@
 ## Hello World ! I'm patategrill 👋🥔
-> a 17 y.o french high school student and ctf player , i like to code, automate things and found flag !
+> an 17 y.o french high school student and ctf player, i like to code, automate things and found flag !
 
 
 
@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0b&hide=shell,html)
 
-## Actually work on: ​  
+## Currently work on: ​  
 **- MownOS :** An OS that display text (in construction)  
 **- Paris interactive map :** An interactive website which traces history and monument of Paris 1790  
 **- EIL installer :** An auto-installer for some linux distro for those who want to simplify their lives with Linux  
