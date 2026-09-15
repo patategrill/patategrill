@@ -13,7 +13,7 @@
 </pre>
 
 <p align=center>
-   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0e&hide=shell,html"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patategrill&layout=compact&theme=dark&color=%230a0a0f&hide=shell,html"/>
 </p>
 
 
